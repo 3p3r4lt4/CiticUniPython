@@ -1,2 +1,2 @@
 # CiticUniPython 
-Alumno: Eduardo Peralta Q.
+Alumno: Eduardo Peralta Quicaño
